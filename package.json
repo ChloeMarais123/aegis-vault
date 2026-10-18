@@ -1,0 +1,20 @@
+{
+  "name": "aegis-vault",
+  "version": "2.0.0",
+  "description": "AEGIS VAULT — Obsidian Core - Military-grade offline encrypted vault",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000",
+    "lint": "echo 'No lint needed - vanilla JS'"
+  },
+  "keywords": ["vault", "password-manager", "encryption", "offline", "pwa", "security", "zero-knowledge"],
+  "author": "AEGIS Team",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/YOUR_USERNAME/aegis-vault.git"
+  },
+  "bugs": { "url": "https://github.com/YOUR_USERNAME/aegis-vault/issues" },
+  "homepage": "https://github.com/YOUR_USERNAME/aegis-vault#readme"
+}
